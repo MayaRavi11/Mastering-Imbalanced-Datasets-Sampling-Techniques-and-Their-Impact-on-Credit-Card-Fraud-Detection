@@ -1,0 +1,2 @@
+# Mastering-Imbalanced-Datasets-Sampling-Techniques-and-Their-Impact-on-Credit-Card-Fraud-Detection
+This notebook explores sampling techniques for handling imbalanced datasets, crucial in fields like fraud detection. It covers methods like Random Under/Over Sampling, SMOTE, ADASYN, and their combinations, using Credit Card Fraud Detection as a case study to demonstrate their impact on model accuracy and false positive rates.
